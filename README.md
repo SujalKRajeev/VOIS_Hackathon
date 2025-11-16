@@ -155,7 +155,7 @@ Below is a preview snippet of the Power BI dashboard used in this project:
 
 ![Dashboard Screenshot](dashboard_snippet.png)
 
-> *(Save your dashboard image as `dashboard_snippet.png` in the repository root to display it automatically.)*
+
 
 This project includes a complete **interactive analytics dashboard** built using:
 
@@ -185,18 +185,5 @@ Features include:
 * Region & Service-based filtering
 * Sample feedback viewer (first 10 rows)
 
-To run locally:
 
-```bash
-streamlit run app.py
-```
 
----
-
-## License & Contact
-
-Include your preferred license (e.g., MIT). For questions, contact: `sujal@example.com` (replace with your real contact).
-
----
-
-*Generated README — edit any section to match repo structure or personal preferences.*
